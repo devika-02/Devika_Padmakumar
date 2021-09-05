@@ -1,0 +1,2 @@
+Hello I am Devika Padmakumar and I am a computer scienceengineering student in Manipal Institute of Technology.I am new to github and
+this is my first git local directory.
